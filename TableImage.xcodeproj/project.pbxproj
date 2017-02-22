@@ -123,10 +123,10 @@
 			children = (
 				8240CF781E487E0E00A56C68 /* AppDelegate.h */,
 				8240CF791E487E0E00A56C68 /* AppDelegate.m */,
-				8240CF7B1E487E0E00A56C68 /* ViewController.h */,
-				8240CF7C1E487E0E00A56C68 /* ViewController.m */,
 				8240CFAB1E487E9000A56C68 /* TableViewController.h */,
 				8240CFAC1E487E9000A56C68 /* TableViewController.m */,
+				8240CF7B1E487E0E00A56C68 /* ViewController.h */,
+				8240CF7C1E487E0E00A56C68 /* ViewController.m */,
 				DA5F09B11E498F84002792F7 /* TableViewCell.h */,
 				DA5F09B21E498F84002792F7 /* TableViewCell.m */,
 				8240CF7E1E487E0E00A56C68 /* Main.storyboard */,
